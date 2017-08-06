@@ -17,16 +17,21 @@
 .panel-body p {
   background-color: #ebfafa;
   padding: 30px;
-  margin-top: 20px;
+  margin-top: 5px;
 }
 .panel-heading {
   padding-bottom: 2px;
   padding-top: 10px;
   font-size: 20px;
   margin-top: 20px;
+  background-color: #adebeb;
+  margin: 25px;
 }
 body {
   background-image: url("https://t4.ftcdn.net/jpg/01/25/18/01/240_F_125180179_unehaJ9byRmiGomuLbCvsOahKhY6oxFZ.jpg");
+}
+.panel-transparent {
+  background: none;
 }
 .car {
   width: 350px;
