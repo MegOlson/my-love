@@ -33,8 +33,17 @@ body {
 .panel-transparent {
   background: none;
 }
-.car {
-  width: 350px;
+#last {
+  padding-bottom: 10px;
+}
+#head {
+  margin-bottom: 1px;
+}
+.peter {
+  width: 475px;
+  height: 350px;
+  padding-top: 70px;
+  padding-right: 20px;
 }
 .look {
   width: 300px;
@@ -45,12 +54,14 @@ body {
 }
 .bunny {
   width: 300px;
+  height: 450px;
 }
 .jackson {
   width: 350px;
 }
-.flower {
+.peony {
   width: 300px;
+  padding-top: 40px;
 }
 .us {
   width: 400px;
