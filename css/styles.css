@@ -8,14 +8,32 @@
   padding-top: 10px;
   padding-bottom: 10px;
 }
+.row p {
+  font-size: 15px;
+  line-height: 200%;
+  padding-left: 30px;
+  padding-right: 30px;
+}
+.panel-body p {
+  background-color: #ebfafa;
+  padding: 30px;
+  margin-top: 20px;
+}
+.panel-heading {
+  padding-bottom: 2px;
+  padding-top: 10px;
+  font-size: 20px;
+  margin-top: 20px;
+}
+body {
+  background-image: url("https://t4.ftcdn.net/jpg/01/25/18/01/240_F_125180179_unehaJ9byRmiGomuLbCvsOahKhY6oxFZ.jpg");
+}
 .car {
   width: 350px;
 }
 .look {
   width: 300px;
-}
-.row p {
-  font-size: 18px;
+  padding-left: 40px;
 }
 .goof {
   width: 300px;
@@ -25,4 +43,10 @@
 }
 .jackson {
   width: 350px;
+}
+.flower {
+  width: 300px;
+}
+.us {
+  width: 400px;
 }
